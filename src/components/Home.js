@@ -1,4 +1,5 @@
 import React from "react";
+//dont need to import props 
 
 function Home(props) {
   return (
